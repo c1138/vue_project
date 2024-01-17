@@ -1,3 +1,5 @@
+A simple study project build with Vue.js
+
 # vue
 
 ## Project setup
